@@ -50,6 +50,36 @@ Os resultados reforçam que a inadimplência é um indicador relevante do estres
 
 ---
 
+## Visualizações
+
+### Inadimplência das Pessoas Físicas no Brasil
+![Inadimplência](Inadimplência%20das%20Pessoas%20Físicas%20no%20Brasil.png)
+
+---
+
+### Consumo das Famílias no Brasil (PMC - Varejo Ampliado)
+![Consumo](Consumo%20das%20Famílias%20no%20Brasil%20(PMC%20-%20Varejo%20Ampliado).png)
+
+---
+
+### Inadimplência vs. Consumo das Famílias no Brasil (Séries Temporais)
+![Séries Temporais](Inadimplência%20vs.%20Consumo%20das%20Famílias%20no%20Brasil.png)
+
+---
+
+### Correlação entre Inadimplência e Consumo das Famílias
+![Correlação](Correlação%20entre%20Inadimplência%20e%20Consumo%20das%20Famílias.png)
+
+---
+
+### Estatísticas Descritivas
+![Estatísticas Descritivas](Estatísticas%20Descritivas%20de%20Inadimplência%20e%20Consumo.png)
+
+> 🔗 **Acesse também a tabela em HTML interativo:**  
+[Visualizar estatísticas descritivas (HTML)](estatisticas_descritivas.html)
+
+---
+
 ## Tecnologias e Ferramentas
 
 - R
